@@ -1,0 +1,7 @@
+Capstone Project proposals:
+
+1. Using the database from Brewery DB, I would like to look at all of the different styles of beer and determine which styles are most similar to one another using Specs like IBU, SRM, ABV and any other variables that may be available in the data set.
+
+2. Another option for the Brewery DB set is to determine what beers are most similar to a beer you are currently drinking. Using the same variables as listed above, the program will output the beers most similar to the input.
+
+3. The third idea is to use data sets from the game Overwatch. I would like to determine which characters perform best on certain maps. I can look at variables such as Win%, K/D ratio and others.
